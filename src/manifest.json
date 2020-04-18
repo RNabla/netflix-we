@@ -14,7 +14,7 @@
     "content_scripts": [
         {
             "matches": [
-                "*://*.netflix.com/*",
+                "*://*.netflix.com/*"
             ],
             "js": [
                 "playback.js"
